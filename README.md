@@ -1,2 +1,2 @@
-# primer-repositorio
-Este sera un repositorio de prueba
+# Mi Proyecto Git
+Este es un proyecto de prueba para aprender Git.
